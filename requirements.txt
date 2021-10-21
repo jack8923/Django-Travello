@@ -6,7 +6,7 @@ astral==1.10.1
 async-timeout==3.0.1
 attrs==19.3.0
 awscli==1.15.15
-Babel==2.2.0
+Babel==2.9.1
 backcall==0.1.0
 bcrypt==3.1.7
 beautifulsoup4==4.6.0
